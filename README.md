@@ -1,3 +1,3 @@
-# Image magick commands
+# Some useful commands
 
-Files with useful commands I use with image magick to optimize some flows
+commands that I sometimes use to automatize tasks
