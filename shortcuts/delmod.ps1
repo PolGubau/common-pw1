@@ -1,0 +1,1 @@
+..\dev-tools\clear-node-modules.ps1
