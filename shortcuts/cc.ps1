@@ -17,9 +17,9 @@ This script is a shortcut and depends on the `copy-to-clipboard.ps1` script loca
 #>
 
 param (
-    [string]$text
+    [string]$t
 )
 
 $scriptPath = Join-Path $PSScriptRoot "..\utils\copy-to-clipboard.ps1"
-& $scriptPath -text $text
+& $scriptPath -text $t
 
